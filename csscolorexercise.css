@@ -1,0 +1,79 @@
+.container{
+  width: 800px;
+  height: 600px;
+  margin: auto;
+  background-color: white;
+}
+
+.yellow{
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+}
+
+.red{
+  width: 300px;
+  height: 100px;
+  background-color: red;
+  float: right;
+}
+
+.black1{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+
+.black2{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: right;
+}
+
+.magenta{
+  width: 300px;
+  height: 100px;
+  background-color: magenta;
+  float: left;
+  margin-right: 100px;
+  margin-top:100px;
+}
+
+.purple{
+  width: 300px;
+  height: 100px;
+  background-color: purple;
+  float: right;
+}
+
+.brown{
+  width: 600px;
+  height: 100px;
+  background-color: brown;
+  float: right;
+}
+
+.blue{
+  width: 400px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+}
+
+.orange{
+  width: 200px;
+  height: 100px;
+  background-color: orange;
+  float: right;
+}
+
+.green{
+  width: 400px;
+  height: 100px;
+  background-color: green;
+  float: left;
+  margin-left: 200px;
+}
